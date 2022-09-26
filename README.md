@@ -5,7 +5,7 @@
 Open the config file and adjust the values.
 
 ### SD
-user: your username
+user: your username\n
 password: your password
 database: the database to work with
 isNewDatabase should be set to true if the above mentioned is a new database.
