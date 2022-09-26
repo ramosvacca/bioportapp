@@ -9,9 +9,9 @@ user: your username
 
 password: your password
 
-database: the database to work with
+database: the database name 
 
-isNewDatabase should be set to true if the above mentioned is a new database.
+isNewDatabase: should be set to True if the above mentioned is a new database.
 
 port: the port to connect with your stardog server
 
