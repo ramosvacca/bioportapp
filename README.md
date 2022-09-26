@@ -1,5 +1,9 @@
 # bioportapp
 
+This application takes a config.ini, search the desired ontologies in bioportal, downloads them locally and make an information file for each one.
+
+Then we load de data to stardog in an specified database, with different named graphs for each ontology.
+
 ## Config
 
 Open the config file and adjust the values.
